@@ -1,8 +1,9 @@
 CSS
-base{background-color: #333333}
+base{background-color: #333333;}
 .topnav {
     background-color: #1d1d1d;
     overflow: hidden;
+
 }
 
 /* Style the links inside the navigation bar */
