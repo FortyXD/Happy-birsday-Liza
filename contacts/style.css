@@ -2,6 +2,17 @@
     margin: 0;
     padding: 0;
 }
+@font-face {
+	font-family: 'Baloo 2'; 
+	src: url(../Fonts/Baloo2-Regular.ttf); 
+}
+ 
+/* Жирный */
+@font-face {
+	font-family: 'Baloo2-Bold'; 
+	src: url(../Fonts/Baloo2-Bold.ttfx); 
+}
+ 
 h1 {
     color: #fff;
     text-align: center;
